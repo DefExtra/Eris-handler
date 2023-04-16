@@ -1,0 +1,14 @@
+{
+  "name": "eris-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/App.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "author": "NIR0",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.17.2"
+  }
+}
